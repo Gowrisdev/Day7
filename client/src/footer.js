@@ -17,7 +17,7 @@
 </head>
 <body>
 
-<h2>Fixed/Sticky Footer Example</h2>
+<h2>Mobile Insurance</h2>
 <p>The footer is placed at the bottom of the page.</p>
 
 <div class="footer">
